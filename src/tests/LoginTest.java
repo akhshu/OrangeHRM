@@ -59,6 +59,8 @@ public class LoginTest extends BaseTest {
 	@Test
 	public void selectMenuOption() {
 		System.out.println("this is to test git pull request");
+				System.out.println("this is to test git pull request 1");
+
 	}
 
 }
